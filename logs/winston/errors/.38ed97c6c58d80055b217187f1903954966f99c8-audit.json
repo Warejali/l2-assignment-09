@@ -1,0 +1,115 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "D:\\Next Level Assignment\\assignment-09\\Assignment-Backend\\logs\\winston\\errors\\.38ed97c6c58d80055b217187f1903954966f99c8-audit.json",
+    "files": [
+        {
+            "date": 1697535825250,
+            "name": "D:\\Next Level Assignment\\assignment-09\\Assignment-Backend\\logs\\winston\\errors\\phu-2023-17-10-15-error.log",
+            "hash": "2565b7e18bb89d94bff2179bcf8fa602b7fc6b3df35b8ad428cb640a4ea21990"
+        },
+        {
+            "date": 1697546633566,
+            "name": "D:\\Next Level Assignment\\assignment-09\\Assignment-Backend\\logs\\winston\\errors\\phu-2023-17-10-18-error.log",
+            "hash": "208ab543d52fef11b891d912dbfd8fde320fcf3f62d5b05f3667023b86be19ba"
+        },
+        {
+            "date": 1697564937870,
+            "name": "D:\\Next Level Assignment\\assignment-09\\Assignment-Backend\\logs\\winston\\errors\\phu-2023-17-10-23-error.log",
+            "hash": "143049fb9e7613b7d0886922c44c07ad7d4e8e97d72ecff199c3947198597b8d"
+        },
+        {
+            "date": 1697618990189,
+            "name": "D:\\Next Level Assignment\\assignment-09\\Assignment-Backend\\logs\\winston\\errors\\phu-2023-18-10-14-error.log",
+            "hash": "f601c56717012b7be8c2c13c0ec03be0f9e39e90023c7a7a6a7c4ed33d33df91"
+        },
+        {
+            "date": 1697626665763,
+            "name": "D:\\Next Level Assignment\\assignment-09\\Assignment-Backend\\logs\\winston\\errors\\phu-2023-18-10-16-error.log",
+            "hash": "8e2228a437a08a36721ffec523ff22b28f3d2ef0eb24ec16ebbacb47e4a628f7"
+        },
+        {
+            "date": 1697631911335,
+            "name": "D:\\Next Level Assignment\\assignment-09\\Assignment-Backend\\logs\\winston\\errors\\phu-2023-18-10-18-error.log",
+            "hash": "dd3339d67e3e9df36f730aa001c4b5e4774ab4315c5a3fcc6c6fd198f533ff08"
+        },
+        {
+            "date": 1697637164803,
+            "name": "D:\\Next Level Assignment\\assignment-09\\Assignment-Backend\\logs\\winston\\errors\\phu-2023-18-10-19-error.log",
+            "hash": "783b3ddb9f9044957d394e0cc8ac599b4ab6df3a81bb3387800aba368ea9bf8a"
+        },
+        {
+            "date": 1697637890248,
+            "name": "D:\\Next Level Assignment\\assignment-09\\Assignment-Backend\\logs\\winston\\errors\\phu-2023-18-10-20-error.log",
+            "hash": "3e2942814ea779c56a5785bb53e269518ce2eeb2347b4d096b29bbac26f7d2d7"
+        },
+        {
+            "date": 1697643399313,
+            "name": "D:\\Next Level Assignment\\assignment-09\\Assignment-Backend\\logs\\winston\\errors\\phu-2023-18-10-21-error.log",
+            "hash": "24cf9c8f5b994cc972abf770c4ff3c6afc1804bc672cc923168c179f9187f64a"
+        },
+        {
+            "date": 1697649464941,
+            "name": "D:\\Next Level Assignment\\assignment-09\\Assignment-Backend\\logs\\winston\\errors\\phu-2023-18-10-23-error.log",
+            "hash": "ac29128cc93dd3c282eefaa709096c9b113bdd8e1f5f0d483b37a396e4cd2bec"
+        },
+        {
+            "date": 1697695997370,
+            "name": "D:\\Next Level Assignment\\assignment-09\\Assignment-Backend\\logs\\winston\\errors\\phu-2023-19-10-12-error.log",
+            "hash": "76b7105cc629a5138d555f7b16f2e98291426df7bd00c0324c5dc96cab30dc3e"
+        },
+        {
+            "date": 1697715439462,
+            "name": "D:\\Next Level Assignment\\assignment-09\\Assignment-Backend\\logs\\winston\\errors\\phu-2023-19-10-17-error.log",
+            "hash": "e6566d9106fcd945926ef17ba8d4b01b48883d5b8e53d6858f2c79c68b1234f5"
+        },
+        {
+            "date": 1697716803091,
+            "name": "D:\\Next Level Assignment\\assignment-09\\Assignment-Backend\\logs\\winston\\errors\\phu-2023-19-10-18-error.log",
+            "hash": "59042c1f02a0be6b41baf6d6388dab605e67de71cda7da22626ce3695800e12b"
+        },
+        {
+            "date": 1697731171930,
+            "name": "D:\\Next Level Assignment\\assignment-09\\Assignment-Backend\\logs\\winston\\errors\\phu-2023-19-10-21-error.log",
+            "hash": "cb47e6fcc109a34c19b49ba903ebf74adc9dbce74e0b57bb5a2074ed400eda28"
+        },
+        {
+            "date": 1697731639289,
+            "name": "D:\\Next Level Assignment\\assignment-09\\Assignment-Backend\\logs\\winston\\errors\\phu-2023-19-10-22-error.log",
+            "hash": "b3d7c23df292f43a846d891e637e6576f1966aac506e6bccfbd66c58f2d08868"
+        },
+        {
+            "date": 1697736273647,
+            "name": "D:\\Next Level Assignment\\assignment-09\\Assignment-Backend\\logs\\winston\\errors\\phu-2023-19-10-23-error.log",
+            "hash": "11e459f1cb5da6341370692e8e72837eaaf7539fa9253ae48eace6b2f1e47bf8"
+        },
+        {
+            "date": 1697738641589,
+            "name": "D:\\Next Level Assignment\\assignment-09\\Assignment-Backend\\logs\\winston\\errors\\phu-2023-20-10-00-error.log",
+            "hash": "4d3c1ce744ecb3faf4cc0933c5fbf97f771f2e861fbc1643fc493539806a43e5"
+        },
+        {
+            "date": 1697742118419,
+            "name": "D:\\Next Level Assignment\\assignment-09\\Assignment-Backend\\logs\\winston\\errors\\phu-2023-20-10-01-error.log",
+            "hash": "fa1dba32b2801f861b943f9637e4f1c63f0512a6075a627247ccc27aea0e6eea"
+        },
+        {
+            "date": 1697771239981,
+            "name": "D:\\Next Level Assignment\\assignment-09\\Assignment-Backend\\logs\\winston\\errors\\phu-2023-20-10-09-error.log",
+            "hash": "4c167777f17f40731ec4992d086489d9e15d4b763eef2b69a5301799faa52442"
+        },
+        {
+            "date": 1697781798374,
+            "name": "D:\\Next Level Assignment\\assignment-09\\Assignment-Backend\\logs\\winston\\errors\\phu-2023-20-10-12-error.log",
+            "hash": "eef1c1d8b931f2084709bf72e1c2efa5cc77d568daba2d1ce40588b4075a964b"
+        },
+        {
+            "date": 1697794612392,
+            "name": "D:\\Next Level Assignment\\assignment-09\\Assignment-Backend\\logs\\winston\\errors\\phu-2023-20-10-15-error.log",
+            "hash": "13a3d715d0b13fe40489181b140af32dbde9b6e1cf08aa69270def329dbdc398"
+        }
+    ],
+    "hashType": "sha256"
+}

@@ -1,0 +1,50 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "D:\\Next Level Assignment\\assignment-09\\1.um-auth-service-main\\logs\\winston\\successes\\.3210ca057278542603b768897642cf8e41f037f1-audit.json",
+    "files": [
+        {
+            "date": 1697210326421,
+            "name": "D:\\Next Level Assignment\\assignment-09\\1.um-auth-service-main\\logs\\winston\\successes\\phu-2023-13-10-21-success.log",
+            "hash": "60b5b79e6647ae1c6c27aafc0c0b5d992cefd60efd6041d3756cd3243eb2291e"
+        },
+        {
+            "date": 1697212807373,
+            "name": "D:\\Next Level Assignment\\assignment-09\\1.um-auth-service-main\\logs\\winston\\successes\\phu-2023-13-10-22-success.log",
+            "hash": "f496d646ad007a41b8604ac289f24142473a93b0e3d2536df944671639ccac6e"
+        },
+        {
+            "date": 1697216500468,
+            "name": "D:\\Next Level Assignment\\assignment-09\\1.um-auth-service-main\\logs\\winston\\successes\\phu-2023-13-10-23-success.log",
+            "hash": "3be5ee5600914ce964de737f4b7646879206fa2156d9283db0f5d85a587ec698"
+        },
+        {
+            "date": 1697220039615,
+            "name": "D:\\Next Level Assignment\\assignment-09\\1.um-auth-service-main\\logs\\winston\\successes\\phu-2023-14-10-00-success.log",
+            "hash": "472d9dae0efed46d1cc3f981964b081239a63ffea47a980abdbab27cf85d3091"
+        },
+        {
+            "date": 1697253790833,
+            "name": "D:\\Next Level Assignment\\assignment-09\\1.um-auth-service-main\\logs\\winston\\successes\\phu-2023-14-10-09-success.log",
+            "hash": "4a57853b2a3794f78ddf127be87aa547763a1545bf0cf22d5bde5ba2d089943e"
+        },
+        {
+            "date": 1697262778481,
+            "name": "D:\\Next Level Assignment\\assignment-09\\1.um-auth-service-main\\logs\\winston\\successes\\phu-2023-14-10-11-success.log",
+            "hash": "53ff303a7ffa6eab7975f3429967ae04b94b443a50239710eb2561a42432da1a"
+        },
+        {
+            "date": 1697388914725,
+            "name": "D:\\Next Level Assignment\\assignment-09\\1.um-auth-service-main\\logs\\winston\\successes\\phu-2023-15-10-22-success.log",
+            "hash": "a410a2ff14813a40605290b6aec7b2c8b13053d506e4a6ec0f77c837fd3a7445"
+        },
+        {
+            "date": 1697465339660,
+            "name": "D:\\Next Level Assignment\\assignment-09\\1.um-auth-service-main\\logs\\winston\\successes\\phu-2023-16-10-20-success.log",
+            "hash": "d644952c116a28ee3d517574ec2ae833db2f570abc0a8c53a55415236a1dbc4c"
+        }
+    ],
+    "hashType": "sha256"
+}
